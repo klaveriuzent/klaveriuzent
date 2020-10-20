@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-2545
-Fork on GitHub
-412
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Jefry Chiedi</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
