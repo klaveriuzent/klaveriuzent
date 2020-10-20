@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/klaveriuzent/klaveriuzent/main/img/header.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klaveriuzent&label=Profile%20Views&color=8a0000&style=flat" alt="klaveriuzent" /> </p>
 
-I am a student for 3rd year Computer Science at Binus@bandung, for now I'm currently looking for an internship. The unique about me is always like to try a new system, i know that not everything is going well but it is all my determination to pursue knowledge.
+I am a student for 3rd year Computer Science at Binus@bandung, for now I'm currently looking for an internship. The unique about me is always like to try a new system, i know that not everything is going well but it's all my determination to pursue knowledge.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
