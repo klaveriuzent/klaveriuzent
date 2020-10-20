@@ -1,1 +1,9 @@
-<img align="center" src="https://raw.githubusercontent.com/klaveriuzent/klaveriuzent/master/header.png"/>
+![](https://raw.githubusercontent.com/klaveriuzent/klaveriuzent/main/img/header.png)
+
+Hello world, this channel is part of my interest.
+
+
+
+
+
+
